@@ -1,0 +1,9 @@
+{
+  "name": "KnowEncumbrance",
+  "version_number": "1.0.2",
+  "website_url": "https://github.com/Vapok/TTMods-KnowEncumbrance",
+  "description": "A Simple Techtonica mod that demystifies the Encumbrance Equation",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
