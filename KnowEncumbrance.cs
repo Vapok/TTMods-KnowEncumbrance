@@ -10,7 +10,7 @@ namespace KnowEncumbrance
     {
         private const string MyGUID = "com.vapok.KnowEncumbrance";
         private const string PluginName = "KnowEncumbrance";
-        private const string VersionString = "1.0.1";
+        private const string VersionString = "1.0.2";
 
         private static Harmony _harmony = new Harmony(MyGUID);
         public static ManualLogSource Log = new ManualLogSource(PluginName);
